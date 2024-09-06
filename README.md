@@ -1,4 +1,4 @@
-![Scuba Zip](https://github.com/user-attachments/assets/4c6af1b3-b688-4c68-8084-f50948f22762)
+![Scuba](https://github.com/user-attachments/assets/0be11878-4717-4e4a-b5b9-d06e255d2666)
 
 > Assistive scuba diving location finder with weather and travel advice.
 

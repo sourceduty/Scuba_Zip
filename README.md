@@ -18,6 +18,8 @@ Scuba Zip maintains a friendly and knowledgeable tone, making the experience enj
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Fishing Expert](https://github.com/sourceduty/Fishing_Expert)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

@@ -22,6 +22,14 @@ Scuba Zip maintains a friendly and knowledgeable tone, making the experience enj
 [Fishing Expert](https://github.com/sourceduty/Fishing_Expert)
 <br>
 [Boats](https://github.com/sourceduty/Boats)
+<br>
+[Emergency Buoys](https://github.com/sourceduty/Emergency_Buoys)
+<br>
+[Sediment Coagulation](https://github.com/sourceduty/Sediment_Coagulation)
+<br>
+[Freshwater Weeds](https://github.com/sourceduty/Freshwater_Weeds)
+<br>
+[Invasive Fish](https://github.com/sourceduty/Invasive_Fish)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

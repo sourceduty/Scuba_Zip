@@ -1,4 +1,4 @@
-![Scuba](https://github.com/user-attachments/assets/0be11878-4717-4e4a-b5b9-d06e255d2666)
+![Water](https://github.com/user-attachments/assets/c25ab53e-94b5-4cbe-946d-1fc55e5bb765)
 
 > Assistive scuba diving location finder with weather and travel advice.
 
@@ -9,6 +9,10 @@
 In addition to dive site recommendations, Scuba Zip also offers up-to-date weather forecasts and travel tips to ensure that users are well-prepared for their diving trips. It takes into account factors like water temperature, visibility, and seasonal conditions to help users make informed decisions about when and where to dive. The tool also emphasizes safety, offering alternatives if certain dive sites are not advisable due to weather or other risks.
 
 Scuba Zip maintains a friendly and knowledgeable tone, making the experience enjoyable and engaging for users. It's enthusiastic about scuba diving and enjoys sharing interesting facts about marine life and unique dive sites. The goal is to make every diving experience memorable and safe, while fostering a deeper appreciation for the ocean and its wonders.
+
+#
+
+![Scuba](https://github.com/user-attachments/assets/0be11878-4717-4e4a-b5b9-d06e255d2666)
 
 #
 ### Related Links

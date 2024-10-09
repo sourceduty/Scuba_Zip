@@ -12,6 +12,10 @@ Scuba Zip maintains a friendly and knowledgeable tone, making the experience enj
 
 #
 
+![Wetsuits](https://github.com/user-attachments/assets/0caa0efe-71ab-4152-bd21-54aebae888b0)
+
+#
+
 ![Scuba](https://github.com/user-attachments/assets/0be11878-4717-4e4a-b5b9-d06e255d2666)
 
 #
